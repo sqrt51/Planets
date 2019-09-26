@@ -2,3 +2,4 @@ Mars is a red planet.
 It has two moons.
 A mistake was made.
 Then it was corrected and it was easily fixed and the results were shared with everyone.
+One moon was red.
